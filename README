@@ -1,0 +1,1 @@
+Reading large excel documents as usermodel consumes a lot of memory. This project uses the eventmodel to read large excel files while providing slightly less detailed API.
